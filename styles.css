@@ -31,5 +31,9 @@ body {
 
 #img-div {
     margin: 1px;
-    max-height: 10px;
+}
+
+#Ana-Image {
+    width: auto;
+    height: 200px; 
 }

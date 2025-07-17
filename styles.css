@@ -41,9 +41,9 @@ body {
 
 #image {
   width: auto;
-  height: 200px;
+  height: auto;
   max-height: 200px;
-  max-width: 500px;
+  max-width: 100%;
 }
 
 #tribute-link:hover {
